@@ -146,7 +146,7 @@ const items = [
       draggable: false,
       max: { w: 2 },
     }),
-    data: {/*YOUR DATE GOES HERE*/}
+    data: {/*YOUR DATA GOES HERE*/}
   },
 ];
 
